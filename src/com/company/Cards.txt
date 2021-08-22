@@ -1,0 +1,97 @@
+Cease Fire	2	Diplomat	Prevent the invasion. The attacking player cannot attack any of your territories for the rest of his/her turn
+Cease Fire	2	Diplomat	Prevent the invasion. The attacking player cannot attack any of your territories for the rest of his/her turn
+Colony Influence	0	Diplomat	If your Diplomat Commander is still alive, move your score marker ahead 3 spaces.
+Colony Influence	0	Diplomat	If your Diplomat Commander is still alive, move your score marker ahead 3 spaces.
+Colony Influence	0	Diplomat	If your Diplomat Commander is still alive, move your score marker ahead 3 spaces.
+Colony Influence	0	Diplomat	If your Diplomat Commander is still alive, move your score marker ahead 3 spaces.
+Decoys Revealed	0	Diplomat	Move any number of your commanders to any number of territories you control.
+Decoys Revealed	0	Diplomat	Move any number of your commanders to any number of territories you control.
+Energy Crisis	0	Diplomat	Collect one energy from each opponent.
+Energy Crisis	0	Diplomat	Collect one energy from each opponent.
+Evacuation	0	Diplomat	Move all units from the attacked territory to any territory you occupy.
+Evacuation	0	Diplomat	Move all units from the attacked territory to any territory you occupy.
+MOD Reduction	2	Diplomat	All of your opponents must remove 4 MODs in turn order. Then you remove 2 MODs
+MOD Reduction	2	Diplomat	All of your opponents must remove 4 MODs in turn order. Then you remove 2 MODs
+Territorial Station	1	Diplomat	Place a space station on any land territory you occupy
+Territorial Station	1	Diplomat	Place a space station on any land territory you occupy
+Territorial Station	1	Diplomat	Place a space station on any land territory you occupy
+Assemble MODs	1	Land	Place 3 MODS on any one land territory you occupy.
+Assemble MODs	1	Land	Place 3 MODS on any one land territory you occupy.
+Assemble MODs	1	Land	Place 3 MODS on any one land territory you occupy.
+Colony Influence	0	Land	If your Land Commander is still alive, move your score marker ahead 3 spaces.
+Colony Influence	0	Land	If your Land Commander is still alive, move your score marker ahead 3 spaces.
+Frequency Jam	0	Land	Choose a player. The chosen player cannot play command cards during your turn.
+Frequency Jam	0	Land	Choose a player. The chosen player cannot play command cards during your turn.
+Land Death Trap	3	Land	Your opponent must destroy half the units in the invading territory. Round up.
+Reinforcements	0	Land	Place 3 MODS, one each on 3 different land territories you occupy.
+Reinforcements	0	Land	Place 3 MODS, one each on 3 different land territories you occupy.
+Reinforcements	0	Land	Place 3 MODS, one each on 3 different land territories you occupy.
+Scout Forces	0	Land	Draw a land territory card and secretly place it facedown in front of you. Place 5 MODS on this card. When you occupy this territory immediately place the MODS. Discard the territory card.
+Scout Forces	0	Land	Draw a land territory card and secretly place it facedown in front of you. Place 5 MODS on this card. When you occupy this territory immediately place the MODS. Discard the territory card.
+Scout Forces	0	Land	Draw a land territory card and secretly place it facedown in front of you. Place 5 MODS on this card. When you occupy this territory immediately place the MODS. Discard the territory card.
+Stealth MODs	0	Land	Place 3 additional defending MODS in the defending land territory.
+Stealth MODs	0	Land	Place 3 additional defending MODS in the defending land territory.
+Stealth MODs	0	Land	Place 3 additional defending MODS in the defending land territory.
+Stealth MODs	0	Land	Place 3 additional defending MODS in the defending land territory.
+Stealth MODs	0	Land	Place 3 additional defending MODS in the defending land territory.
+Stealth Station	0	Land	Place a space station in the defending land territory.
+Assemble MODs	1	Naval	Place 3 MODS on any one water territory you occupy.
+Assemble MODs	1	Naval	Place 3 MODS on any one water territory you occupy.
+Assemble MODs	1	Naval	Place 3 MODS on any one water territory you occupy.
+Colony Influence	0	Naval	If your Naval Commander is still alive, move your score marker ahead 3 spaces.
+Colony Influence	0	Naval	If your Naval Commander is still alive, move your score marker ahead 3 spaces.
+Frequency Jam	0	Naval	Choose a player. The chosen player cannot play command cards during your turn.
+Frequency Jam	0	Naval	Choose a player. The chosen player cannot play command cards during your turn.
+Hidden Energy	0	Naval	Draw a water territory card. If you occupy this water territory at the end of your turn, collect 4 energy. Discard the territory card at the end of this turn.
+Hidden Energy	0	Naval	Draw a water territory card. If you occupy this water territory at the end of your turn, collect 4 energy. Discard the territory card at the end of this turn.
+Hidden Energy	0	Naval	Draw a water territory card. If you occupy this water territory at the end of your turn, collect 4 energy. Discard the territory card at the end of this turn.
+Hidden Energy	0	Naval	Draw a water territory card. If you occupy this water territory at the end of your turn, collect 4 energy. Discard the territory card at the end of this turn.
+Hidden Energy	0	Naval	Draw a water territory card. If you occupy this water territory at the end of your turn, collect 4 energy. Discard the territory card at the end of this turn.
+Reinforcements	0	Naval	Place 3 MODS, one each on 3 different water or lava territories you occupy.
+Reinforcements	0	Naval	Place 3 MODS, one each on 3 different water or lava territories you occupy.
+Stealth MODs	0	Naval	Place 3 additional defending MODS in the defending water territory.
+Stealth MODs	0	Naval	Place 3 additional defending MODS in the defending water territory.
+Stealth MODs	0	Naval	Place 3 additional defending MODS in the defending water territory.
+Stealth MODs	0	Naval	Place 3 additional defending MODS in the defending water territory.
+Stealth MODs	0	Naval	Place 3 additional defending MODS in the defending water territory.
+Water Death Trap	3	Naval	Your opponent must destroy half the units in the invading territory. Round up.
+Aqua Brother	3	Nuclear	Roll a 6-sided die and destroy one unit in each territory in the water continent rolled.  Consult the game guide for this.
+Assassin Bomb	1	Nuclear	Choose an opponent's commander. Roll an 8-sided die. If you roll a 3 or higher destroy the chosen commander.
+Assassin Bomb	1	Nuclear	Choose an opponent's commander. Roll an 8-sided die. If you roll a 3 or higher destroy the chosen commander.
+Assassin Bomb	1	Nuclear	Choose an opponent's commander. Roll an 8-sided die. If you roll a 3 or higher destroy the chosen commander.
+Armageddon	4	Nuclear	All players, in turn order, may play any number of nuclear command cards without paying the energy cost.
+The Mother	3	Nuclear	Roll a 6-sided die and destroy one unit in each territory in the land continent rolled.  Consult the game guide for this.
+Nicky Boy	3	Nuclear	Roll a 6-sided die and destroy one unit in each territory in the lunar continent rolled.  Consult the game guide for this.
+Rocket Strike Land	2	Nuclear	Choose any opponent's land territory. Roll a 6-sided die. Your opponent must destroy units equal to the number rolled in the chosen territory.
+Rocket Strike Land	2	Nuclear	Choose any opponent's land territory. Roll a 6-sided die. Your opponent must destroy units equal to the number rolled in the chosen territory.
+Rocket Strike lunar	2	Nuclear	Choose any opponent's lunar territory. Roll a 6-sided die. Your opponent must destroy units equal to the number rolled in the chosen territory.
+Rocket Strike lunar	2	Nuclear	Choose any opponent's lunar territory. Roll a 6-sided die. Your opponent must destroy units equal to the number rolled in the chosen territory.
+Rocket Strike Water	2	Nuclear	Choose any opponent's water territory. Roll a 6-sided die. Your opponent must destroy units equal to the number rolled in the chosen territory.
+Rocket Strike Water	2	Nuclear	Choose any opponent's water territory. Roll a 6-sided die. Your opponent must destroy units equal to the number rolled in the chosen territory.
+Scatter Bomb Land	1	Nuclear	Turn over 3 land territory cards and destroy half the opponents' units on territories drawn. Round up.
+Scatter Bomb Land	1	Nuclear	Turn over 3 land territory cards and destroy half the opponents' units on territories drawn. Round up.
+Scatter Bomb Land	1	Nuclear	Turn over 3 land territory cards and destroy half the opponents' units on territories drawn. Round up.
+Scatter Bomb Moon	1	Nuclear	Turn over 2 lunar territory cards and destroy half the opponents' units on territories drawn. Round up.
+Scatter Bomb Moon	1	Nuclear	Turn over 2 lunar territory cards and destroy half the opponents' units on territories drawn. Round up.
+Scatter Bomb Water	1	Nuclear	Turn over 2 water territory cards and destroy half the opponents' units on territories drawn. Round up.
+Scatter Bomb Water	1	Nuclear	Turn over 2 water territory cards and destroy half the opponents' units on territories drawn. Round up.
+Assemble MODs	1	Space	Place 3 MODs on any one lunar territory you control.
+Assemble MODs	1	Space	Place 3 MODs on any one lunar territory you control.
+Assemble MODs	1	Space	Place 3 MODs on any one lunar territory you control.
+Colony Influence	0	Space	If your Space Commander is still alive, move your score marker ahead 3 spaces.
+Colony Influence	0	Space	If your Space Commander is still alive, move your score marker ahead 3 spaces.
+Energy Extraction	1	Space	If you occupy all the the lunar or asteroid territories in a region of space at the end of this turn, collect 7 energy.
+Frequency Jam	0	Space	Choose a player. The chosen player cannot play command cards during your turn.
+Frequency Jam	0	Space	Choose a player. The chosen player cannot play command cards during your turn.
+Invade Earth	0	Space	Turn over land territory cards until you turn over a territory you do not occupy. During this turn you may attack this land territory from any lunar territory you occupy.
+Invade Earth	0	Space	Turn over land territory cards until you turn over a territory you do not occupy. During this turn you may attack this land territory from any lunar territory you occupy.
+Invade Earth	0	Space	Turn over land territory cards until you turn over a territory you do not occupy. During this turn you may attack this land territory from any lunar territory you occupy.
+Orbital Mines	2	Space	Your opponent must destroy half the units in the invading territory. Round up.
+Orbital Mines	2	Space	Your opponent must destroy half the units in the invading territory. Round up.
+Reinforcements	0	Space	Place 3 MODs, one each on 3 different lunar territories you occupy.
+Reinforcements	0	Space	Place 3 MODs, one each on 3 different lunar territories you occupy.
+Reinforcements	0	Space	Place 3 MODs, one each on 3 different lunar territories you occupy.
+Stealth MODs	0	Space	Place 3 additional defending MODs in the defending lunar territory.
+Stealth MODs	0	Space	Place 3 additional defending MODs in the defending lunar territory.
+Stealth MODs	0	Space	Place 3 additional defending MODs in the defending lunar territory.
+Stealth MODs	0	Space	Place 3 additional defending MODs in the defending lunar territory.
